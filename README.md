@@ -1,3 +1,7 @@
+# Objetivo
+
+Projeto de introdução à angular baseado no curso "Introdução ao Angular 8" da Digital Innovation One.
+
 # CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
